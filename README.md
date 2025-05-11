@@ -16,7 +16,7 @@ Diversos CSS para deixar seus projetos personalizados.
 
 1. Clone este repositório:
    ```sh
-   git clone ttps://github.com/cezardsilva/Truques_de-CSS.git
+   git clone https://github.com/cezardsilva/Truques_de-CSS.git
 
 
 ## Licença
