@@ -18,7 +18,9 @@ Diversos CSS para deixar seus projetos personalizados.
    ```sh
    git clone https://github.com/cezardsilva/Truques_de-CSS.git
 
-
+2. Visite este exemplo funcional:
+   [Truques com CSS](https://truques-css.netlify.app/)
+   
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
